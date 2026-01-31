@@ -141,6 +141,4 @@ PRs welcome! Please read contributing guidelines first.
 
 ---
 
-**Made with care by [Rahul Mittal](https://linkedin.com/in/yourprofile)**
-
-_Building [Mavryl](https://mavryl.com) - Your Partner in AI & Web Development_
+**Made with care by [Rahul Mittal](https://linkedin.com/in/rahulm28)**
