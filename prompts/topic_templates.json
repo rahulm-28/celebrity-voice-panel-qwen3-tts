@@ -1,0 +1,34 @@
+{
+  "default_topics": [
+    "ai",
+    "coding",
+    "startups",
+    "javascript",
+    "python"
+  ],
+  "topic_aliases": {
+    "artificial intelligence": "ai",
+    "machine learning": "ai",
+    "ml": "ai",
+    "programming": "coding",
+    "software": "coding",
+    "development": "coding",
+    "dev": "coding",
+    "js": "javascript",
+    "react": "javascript",
+    "node": "javascript",
+    "startup": "startups",
+    "entrepreneurship": "startups",
+    "business": "startups"
+  },
+  "generic_templates": {
+    "en": {
+      "opening": "Let's talk about {topic}.",
+      "closing": "That's my take on {topic}."
+    },
+    "hi": {
+      "opening": "{topic} ke baare mein baat karte hain.",
+      "closing": "{topic} ke baare mein yahi meri soch hai."
+    }
+  }
+}

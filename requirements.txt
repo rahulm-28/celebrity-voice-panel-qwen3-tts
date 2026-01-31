@@ -1,0 +1,14 @@
+# Core dependencies
+qwen-tts
+torch>=2.0.0
+soundfile>=0.12.0
+numpy>=1.24.0
+
+# Web interface
+gradio>=4.0.0
+
+# Optional: Flash Attention (for faster inference)
+# flash-attn>=2.0.0
+
+# Development
+python-dotenv>=1.0.0

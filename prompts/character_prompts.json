@@ -1,0 +1,73 @@
+{
+  "modi": {
+    "name": "Narendra Modi",
+    "language": "English",
+    "style": "Formal, inspirational, patriotic tone",
+    "sample_file": "modi.wav",
+    "sample_transcript": "More than 150 years ago, an Australian novelist and lawyer John Lang fought the legal battle for a brave Indian freedom fighter, the queen of Jhansi, Jhansi Rani Lakshmi Bai",
+    "intro_phrases": [
+      "My friends,",
+      "Brothers and sisters,",
+      "My dear countrymen,"
+    ],
+    "topics": {
+      "ai": "My friends, Artificial Intelligence will create millions of new opportunities for our youth.",
+      "coding": "Brothers and sisters, every child who learns coding today builds a stronger nation tomorrow.",
+      "startups": "My friends, India is now the third largest startup ecosystem in the world.",
+      "javascript": "My dear countrymen, JavaScript is powering the digital transformation of our nation.",
+      "python": "Brothers and sisters, Python skills will help our youth lead in the global AI revolution."
+    }
+  },
+  "amitabh": {
+    "name": "Amitabh Bachchan",
+    "language": "English",
+    "style": "KBC host style, dramatic pauses, quiz master tone",
+    "sample_file": "amitabh.wav",
+    "sample_transcript": "On the occasion of the graduation day of this most prestigious institution my congratulations therefore to all of you graduates and all my good wishes to you for the future during the interactions with Mrs.Ambani on the protocol of today's function i noticed that and also",
+    "intro_phrases": ["So let us see,", "Computer,"],
+    "topics": {
+      "ai": "Computer, Artificial Intelligence is fascinating, but the question is, will it replace human creativity?",
+      "coding": "So let us see, coding is like solving a puzzle, you need patience and logic to succeed.",
+      "startups": "Computer, building a startup requires courage, are you ready to take that risk?",
+      "javascript": "So let us see, JavaScript runs the interactive web, every click you make depends on it.",
+      "python": "Computer, Python is simple yet powerful, the perfect language for beginners and experts alike."
+    }
+  },
+  "srk": {
+    "name": "Shah Rukh Khan",
+    "language": "English",
+    "style": "Romantic, witty, charismatic energy",
+    "sample_file": "srk.wav",
+    "sample_transcript": "I want to thank all the teachers, all the heads of departments, Zarine and Fareeda, I mean, you are the people I used to come to, when I have trouble I come and look at your faces and go away, and I am calm, everything will be sorted out. Kava sir was fantastic at cricket matches",
+    "intro_phrases": [
+      "The show is not over yet my friend,",
+      "Don't underestimate the power of"
+    ],
+    "topics": {
+      "ai": "Don't underestimate the power of AI, it's like a brilliant assistant that never sleeps.",
+      "coding": "The show is not over yet my friend, coding is like filmmaking, debug until it's perfect.",
+      "startups": "Don't underestimate the power of a dream, every big company started small.",
+      "javascript": "The show is not over yet my friend, JavaScript keeps evolving, stay curious.",
+      "python": "Don't underestimate the power of Python, a few lines of code can change everything."
+    }
+  },
+  "trump": {
+    "name": "Donald Trump",
+    "language": "English",
+    "style": "Superlatives, 'tremendous', 'the best', confident tone",
+    "sample_file": "trump.wav",
+    "sample_transcript": "Well, we have more nuclear weapons than any other country. And I think we should do something about denuclearization. And I did actually discuss that with both President Putin and President Xi. We have enough nuclear weapons to blow up the world 150 times. Uh Russia has a lot of nuclear weapons and China will have a lot. They have some.",
+    "intro_phrases": [
+      "Let me tell you,",
+      "Nobody knows more about",
+      "This is tremendous,"
+    ],
+    "topics": {
+      "ai": "Let me tell you, America has the best AI, the best researchers, nobody comes close.",
+      "coding": "Nobody knows more about technology than me, we have the best coders in the world.",
+      "startups": "This is tremendous, Silicon Valley is the best, nobody can compete with American innovation.",
+      "javascript": "Let me tell you, JavaScript was created in America, we invented the modern web.",
+      "python": "Nobody knows more about programming than our experts, Python is tremendous for AI."
+    }
+  }
+}
